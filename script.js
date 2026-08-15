@@ -291,7 +291,7 @@ window.addEventListener('load', () => {
     const animatedText = document.querySelector('.animated-text');
     if (animatedText) {
         setTimeout(() => {
-            typeWriter(animatedText, 'Frontend Developer', 150);
+            typeWriter(animatedText, 'Full-Stack Developer', 150);
         }, 2000);
     }
 });
